@@ -1,11 +1,9 @@
-README.md
-markdown
-Copy code
+
 # Movie Review Sentiment Classifier using NLTK and Logistic Regression
 
 This project is a basic NLP pipeline that classifies movie reviews as **positive** or **negative** using the **NLTK Movie Reviews dataset** and **Logistic Regression**.
 
-## 🔍 What This Code Does
+##  What This Code Does
 
 1. **Loads the Movie Review Dataset**  
    - Uses `nltk.corpus.movie_reviews` to get 2000 labeled reviews (1000 positive, 1000 negative).
